@@ -1,0 +1,27 @@
+[
+    {
+        "nome": "data1",
+        "project_id": "projetct1",
+        "dataset_id": "dataset1",
+        "table_id": "table1",
+        "column_mapping": {
+            "column1": "data_type1",
+            "column2": "data_type2",
+            "column3": "data_type3"
+        },
+        "query_file_path": "query1.sql"
+    },
+
+    {
+        "nome": "data2",
+        "project_id": "projetct2",
+        "dataset_id": "dataset2",
+        "table_id": "table2",
+        "column_mapping": {
+            "column1": "data_type1",
+            "column2": "data_type2",
+            "column3": "data_type3"
+        },
+        "query_file_path": "query2.sql"
+    }
+]
